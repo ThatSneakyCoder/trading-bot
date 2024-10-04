@@ -1,5 +1,6 @@
-import { Router } from 'express';
+import express, { Router } from 'express';
 import tradingController from '../controllers/tradingController.js';
+import stockPrices from './stockPrices.js'; // New stock prices API
 
 const router = Router();
 
@@ -17,6 +18,14 @@ router.get('/stock-price', tradingController.getStockPrice);
  * @function
  * @memberof module:router
  */
-router.get('/report', tradingController.getReport); // New endpoint for report
+router.get('/report', tradingController.getReport);
+
+/**
+ * Route to get the current stock price from the stock prices API.
+ * @name get/stock-prices/current-price
+ * @function
+ * @memberof module:router
+ */
+router.use('/stock-prices', stockPrices);
 
 export default router;

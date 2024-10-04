@@ -29,12 +29,12 @@ const calculateMovingAverage = (prices, period) => {
 
 /**
  * Executes a trading strategy based on moving averages.
- * Fetches the current stock price, calculates moving averages, and decides whether to buy or sell.
+ * Fetches the current stock price from the new API, calculates moving averages, and decides whether to buy or sell.
  */
 const trade = async () => {
   try {
     logger.info('Fetching stock price...');
-    const response = await axios.get('http://localhost:3000/api/stock-price', {
+    const response = await axios.get('http://localhost:4000/current-price', {
       headers: {
         'Connection': 'keep-alive',
       },
@@ -136,25 +136,6 @@ const generateReport = () => {
 let stockPrice = 100;
 
 /**
- * Generates a random price change based on volatility and drift.
- * @param {number} currentPrice - The current stock price.
- * @returns {number} The change in stock price.
- */
-const generateRandomPriceChange = (currentPrice) => {
-  const volatility = 0.02;
-  const drift = 0.01;
-  const randomShock = Math.random() * 2 - 1;
-  const priceChange = (drift + volatility * randomShock) * currentPrice;
-  return priceChange;
-};
-
-// Simulates stock price changes every second.
-setInterval(() => {
-  const priceChange = generateRandomPriceChange(stockPrice);
-  stockPrice += priceChange;
-}, 1000);
-
-/**
  * Gets the current stock price.
  * @returns {number} The current stock price.
  */
@@ -171,3 +152,4 @@ const startTrading = () => {
 };
 
 export default { getStockPrice, startTrading, generateReport };
+

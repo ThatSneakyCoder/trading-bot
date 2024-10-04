@@ -27,7 +27,7 @@ app.use('/api', routes);
  */
 const server = app.listen(port, () => {
   logger.info(`Server is running on http://localhost:${port}`);
-  tradeService.startTrading(); 
+  tradeService.startTrading();
 });
 
 /**

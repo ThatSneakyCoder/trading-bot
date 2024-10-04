@@ -4,7 +4,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node src/app.js",
+    
+    "start": "pnpm run app",
+    "app": "node src/app.js",
     "test": "jest",
     "lint": "eslint . --config eslint.config.mjs"
   },

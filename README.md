@@ -106,14 +106,25 @@ Ensure you have Docker installed on your system:
    ![pnpm start](image.png)
 
 2. **Testing**
-   ![pnpm test](image-1.png)
+   ![alt text](image-1.png)
 
 3. **Linter** \
    Below image shows no src code violations.
    ![pnpm lint](image-2.png)
 
 4. **Docker Compose**
-   ![Docker CLI ouput](image-3.png)
+   ![alt text](image-5.png)
 
 5. **CircleCI builds**
    ![CircleCI console](image-4.png)
+
+## Further possible implementations (could not be implemented due to time shortage of this assignment)
+
+### 1. Hosting the Application on AWS
+   This application can be deployed on an AWS EC2 instance, such as t2.micro. SSH can be used to access and manage the instance effectively, ensuring seamless application use.
+
+### 2. Enhancing Data Intensity through Distributed Computing
+   Discussions can focus on transforming the trading bot into a data-intensive application using a distributed computing setup. Converting the application to a microservices architecture can allow for the integration of numerous advanced features.
+
+### 3. Implementing Scalability and Optimization Measures
+   To accommodate a large user base, features such as an API rate limiter and caching mechanisms can be implemented. These measures will help manage high traffic efficiently and enhance overall performance.
