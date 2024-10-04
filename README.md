@@ -114,3 +114,6 @@ Ensure you have Docker installed on your system:
 
 4. **Docker Compose**
    ![Docker CLI ouput](image-3.png)
+
+5. **CircleCI builds**
+   ![CircleCI console](image-4.png)
