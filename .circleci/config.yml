@@ -1,7 +1,7 @@
 version: 2.1
 
 jobs:
-  build:
+  commitlint:
     docker:
       - image: circleci/node:latest
     steps:
@@ -10,11 +10,14 @@ jobs:
           name: Install dependencies
           command: npm install
       - run:
-          name: Run Tests
-          command: npm test
+          name: Fetch commit message
+          command: echo "$(git log -1 --pretty=%B)" > commit-msg.txt
+      - run:
+          name: Validate commit message
+          command: npx commitlint --from=HEAD~1 --to=HEAD
 
 workflows:
   version: 2
-  build_and_test:
+  test:
     jobs:
-      - build
+      - commitlint
