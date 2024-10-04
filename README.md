@@ -73,3 +73,31 @@ Ensure you have the following software installed:
       ```
 
 ## Additional Steps (For Docker Users)
+
+Follow these steps to pull the Docker image of Trader Bot and run the application locally.
+
+## Prerequisites
+
+Ensure you have Docker installed on your system:
+- Download and install Docker from [docker.com](https://www.docker.com/).
+- Verify the installation by running `docker -v` in your terminal.
+
+## Steps
+
+1. **Pull the Docker Image**
+
+   Open your terminal and run the following command to pull the Trader Bot image from Docker Hub:
+   ```sh
+   docker pull thatsneakycoder/trader-bot:latest
+   ```
+
+2. **Run the Docker Container**
+
+   Run the container in foreground mode so you can see the console outputs directly in your terminal:
+   ```sh
+   docker run -p 3000:3000 thatsneakycoder/trader-bot:latest
+   ```
+3. Verify
+   Once the container is running, you should see the logs output in your terminal. The application will start running on port 3000.
+   
+   

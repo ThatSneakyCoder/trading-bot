@@ -684,3 +684,362 @@
 2024-10-04T14:05:05.646Z [[32minfo[39m]: Long Term MA: null
 2024-10-04T14:05:05.997Z [[32minfo[39m]: Shutting down server...
 2024-10-04T14:05:51.292Z [[32minfo[39m]: Trading bot started.
+2024-10-04T15:34:11.600Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T15:34:11.601Z [[32minfo[39m]: Trading bot started.
+2024-10-04T15:34:12.603Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:12.744Z [[32minfo[39m]: API Response: {"price":102.3586234271879}
+2024-10-04T15:34:12.744Z [[32minfo[39m]: Current price: 102.3586234271879
+2024-10-04T15:34:12.745Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:34:12.745Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:13.603Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:13.610Z [[32minfo[39m]: API Response: {"price":102.91514022646098}
+2024-10-04T15:34:13.610Z [[32minfo[39m]: Current price: 102.91514022646098
+2024-10-04T15:34:13.610Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:34:13.610Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:14.603Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:14.609Z [[32minfo[39m]: API Response: {"price":103.30097183772718}
+2024-10-04T15:34:14.609Z [[32minfo[39m]: Current price: 103.30097183772718
+2024-10-04T15:34:14.609Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:34:14.609Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:15.604Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:15.608Z [[32minfo[39m]: API Response: {"price":103.68726749458952}
+2024-10-04T15:34:15.609Z [[32minfo[39m]: Current price: 103.68726749458952
+2024-10-04T15:34:15.609Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:34:15.609Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:16.604Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:16.610Z [[32minfo[39m]: API Response: {"price":105.26856053717889}
+2024-10-04T15:34:16.610Z [[32minfo[39m]: Current price: 105.26856053717889
+2024-10-04T15:34:16.610Z [[32minfo[39m]: Short Term MA: 103.50611270462889
+2024-10-04T15:34:16.610Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:17.605Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:17.608Z [[32minfo[39m]: API Response: {"price":107.30793675989146}
+2024-10-04T15:34:17.608Z [[32minfo[39m]: Current price: 107.30793675989146
+2024-10-04T15:34:17.608Z [[32minfo[39m]: Short Term MA: 104.4959753711696
+2024-10-04T15:34:17.608Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:18.605Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:18.610Z [[32minfo[39m]: API Response: {"price":107.37316591827084}
+2024-10-04T15:34:18.610Z [[32minfo[39m]: Current price: 107.37316591827084
+2024-10-04T15:34:18.610Z [[32minfo[39m]: Short Term MA: 105.38758050953156
+2024-10-04T15:34:18.610Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:19.605Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:19.611Z [[32minfo[39m]: API Response: {"price":110.00401468614709}
+2024-10-04T15:34:19.611Z [[32minfo[39m]: Current price: 110.00401468614709
+2024-10-04T15:34:19.611Z [[32minfo[39m]: Short Term MA: 106.72818907921555
+2024-10-04T15:34:19.611Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:20.605Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:20.609Z [[32minfo[39m]: API Response: {"price":110.63099054053832}
+2024-10-04T15:34:20.609Z [[32minfo[39m]: Current price: 110.63099054053832
+2024-10-04T15:34:20.609Z [[32minfo[39m]: Short Term MA: 108.11693368840531
+2024-10-04T15:34:20.609Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:21.604Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:21.607Z [[32minfo[39m]: API Response: {"price":111.35839003280212}
+2024-10-04T15:34:21.607Z [[32minfo[39m]: Current price: 111.35839003280212
+2024-10-04T15:34:21.607Z [[32minfo[39m]: Short Term MA: 109.33489958752996
+2024-10-04T15:34:21.607Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:22.605Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:22.612Z [[32minfo[39m]: API Response: {"price":114.02763922326965}
+2024-10-04T15:34:22.612Z [[32minfo[39m]: Current price: 114.02763922326965
+2024-10-04T15:34:22.612Z [[32minfo[39m]: Short Term MA: 110.6788400802056
+2024-10-04T15:34:22.612Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:23.605Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:23.609Z [[32minfo[39m]: API Response: {"price":113.60681399587362}
+2024-10-04T15:34:23.609Z [[32minfo[39m]: Current price: 113.60681399587362
+2024-10-04T15:34:23.609Z [[32minfo[39m]: Short Term MA: 111.92556969572615
+2024-10-04T15:34:23.609Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:24.606Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:24.613Z [[32minfo[39m]: API Response: {"price":113.8185367917386}
+2024-10-04T15:34:24.614Z [[32minfo[39m]: Current price: 113.8185367917386
+2024-10-04T15:34:24.614Z [[32minfo[39m]: Short Term MA: 112.68847411684446
+2024-10-04T15:34:24.615Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:25.606Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:25.612Z [[32minfo[39m]: API Response: {"price":117.0607224583429}
+2024-10-04T15:34:25.612Z [[32minfo[39m]: Current price: 117.0607224583429
+2024-10-04T15:34:25.612Z [[32minfo[39m]: Short Term MA: 113.97442050040539
+2024-10-04T15:34:25.612Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:26.607Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:26.613Z [[32minfo[39m]: API Response: {"price":117.60110350687881}
+2024-10-04T15:34:26.613Z [[32minfo[39m]: Current price: 117.60110350687881
+2024-10-04T15:34:26.613Z [[32minfo[39m]: Short Term MA: 115.2229631952207
+2024-10-04T15:34:26.613Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:27.608Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:27.614Z [[32minfo[39m]: API Response: {"price":116.79293279976362}
+2024-10-04T15:34:27.614Z [[32minfo[39m]: Current price: 116.79293279976362
+2024-10-04T15:34:27.614Z [[32minfo[39m]: Short Term MA: 115.77602191051952
+2024-10-04T15:34:27.614Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:28.609Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:28.612Z [[32minfo[39m]: API Response: {"price":117.05126930379045}
+2024-10-04T15:34:28.612Z [[32minfo[39m]: Current price: 117.05126930379045
+2024-10-04T15:34:28.612Z [[32minfo[39m]: Short Term MA: 116.46491297210287
+2024-10-04T15:34:28.612Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:29.610Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:29.615Z [[32minfo[39m]: API Response: {"price":120.13323786574004}
+2024-10-04T15:34:29.615Z [[32minfo[39m]: Current price: 120.13323786574004
+2024-10-04T15:34:29.615Z [[32minfo[39m]: Short Term MA: 117.72785318690316
+2024-10-04T15:34:29.615Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:30.611Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:30.614Z [[32minfo[39m]: API Response: {"price":122.29490605369482}
+2024-10-04T15:34:30.614Z [[32minfo[39m]: Current price: 122.29490605369482
+2024-10-04T15:34:30.614Z [[32minfo[39m]: Short Term MA: 118.77468990597353
+2024-10-04T15:34:30.614Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:31.612Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:31.615Z [[32minfo[39m]: API Response: {"price":123.77918734691349}
+2024-10-04T15:34:31.615Z [[32minfo[39m]: Current price: 123.77918734691349
+2024-10-04T15:34:31.615Z [[32minfo[39m]: Short Term MA: 120.0103066739805
+2024-10-04T15:34:31.615Z [[32minfo[39m]: Long Term MA: 112.01857054034001
+2024-10-04T15:34:31.615Z [[32minfo[39m]: MA Crossover - Bought 80 shares at $123.78. Balance: $97.67
+2024-10-04T15:34:32.588Z [[32minfo[39m]: Shutting down server...
+2024-10-04T15:34:47.835Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T15:34:47.837Z [[32minfo[39m]: Trading bot started.
+2024-10-04T15:34:48.838Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:48.890Z [[32minfo[39m]: API Response: {"price":99.67041432725775}
+2024-10-04T15:34:48.890Z [[32minfo[39m]: Current price: 99.67041432725775
+2024-10-04T15:34:48.890Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:34:48.890Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:49.839Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:49.846Z [[32minfo[39m]: API Response: {"price":101.15783507245322}
+2024-10-04T15:34:49.846Z [[32minfo[39m]: Current price: 101.15783507245322
+2024-10-04T15:34:49.846Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:34:49.846Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:50.840Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:50.846Z [[32minfo[39m]: API Response: {"price":101.40991639412016}
+2024-10-04T15:34:50.846Z [[32minfo[39m]: Current price: 101.40991639412016
+2024-10-04T15:34:50.846Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:34:50.846Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:51.839Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:51.845Z [[32minfo[39m]: API Response: {"price":102.60728455000081}
+2024-10-04T15:34:51.845Z [[32minfo[39m]: Current price: 102.60728455000081
+2024-10-04T15:34:51.846Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:34:51.846Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:52.840Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:52.845Z [[32minfo[39m]: API Response: {"price":101.97967969775853}
+2024-10-04T15:34:52.845Z [[32minfo[39m]: Current price: 101.97967969775853
+2024-10-04T15:34:52.845Z [[32minfo[39m]: Short Term MA: 101.3650260083181
+2024-10-04T15:34:52.845Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:53.840Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:53.845Z [[32minfo[39m]: API Response: {"price":102.02041260339703}
+2024-10-04T15:34:53.845Z [[32minfo[39m]: Current price: 102.02041260339703
+2024-10-04T15:34:53.845Z [[32minfo[39m]: Short Term MA: 101.83502566354596
+2024-10-04T15:34:53.845Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:54.840Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:54.845Z [[32minfo[39m]: API Response: {"price":103.64628801205552}
+2024-10-04T15:34:54.845Z [[32minfo[39m]: Current price: 103.64628801205552
+2024-10-04T15:34:54.846Z [[32minfo[39m]: Short Term MA: 102.3327162514664
+2024-10-04T15:34:54.846Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:55.839Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:55.845Z [[32minfo[39m]: API Response: {"price":106.49067622407776}
+2024-10-04T15:34:55.845Z [[32minfo[39m]: Current price: 106.49067622407776
+2024-10-04T15:34:55.845Z [[32minfo[39m]: Short Term MA: 103.34886821745792
+2024-10-04T15:34:55.845Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:56.840Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:56.847Z [[32minfo[39m]: API Response: {"price":107.37461844781542}
+2024-10-04T15:34:56.847Z [[32minfo[39m]: Current price: 107.37461844781542
+2024-10-04T15:34:56.847Z [[32minfo[39m]: Short Term MA: 104.30233499702088
+2024-10-04T15:34:56.847Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:57.840Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:57.844Z [[32minfo[39m]: API Response: {"price":108.92789196797625}
+2024-10-04T15:34:57.845Z [[32minfo[39m]: Current price: 108.92789196797625
+2024-10-04T15:34:57.845Z [[32minfo[39m]: Short Term MA: 105.69197745106439
+2024-10-04T15:34:57.845Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:58.841Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:58.846Z [[32minfo[39m]: API Response: {"price":111.5416161975879}
+2024-10-04T15:34:58.846Z [[32minfo[39m]: Current price: 111.5416161975879
+2024-10-04T15:34:58.846Z [[32minfo[39m]: Short Term MA: 107.59621816990257
+2024-10-04T15:34:58.846Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:34:59.842Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:34:59.847Z [[32minfo[39m]: API Response: {"price":113.71253899232109}
+2024-10-04T15:34:59.847Z [[32minfo[39m]: Current price: 113.71253899232109
+2024-10-04T15:34:59.847Z [[32minfo[39m]: Short Term MA: 109.60946836595569
+2024-10-04T15:34:59.847Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:00.843Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:00.848Z [[32minfo[39m]: API Response: {"price":115.33881299984911}
+2024-10-04T15:35:00.848Z [[32minfo[39m]: Current price: 115.33881299984911
+2024-10-04T15:35:00.848Z [[32minfo[39m]: Short Term MA: 111.37909572110996
+2024-10-04T15:35:00.848Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:01.844Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:01.849Z [[32minfo[39m]: API Response: {"price":114.65026887937054}
+2024-10-04T15:35:01.849Z [[32minfo[39m]: Current price: 114.65026887937054
+2024-10-04T15:35:01.849Z [[32minfo[39m]: Short Term MA: 112.83422580742096
+2024-10-04T15:35:01.849Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:02.845Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:02.850Z [[32minfo[39m]: API Response: {"price":117.09463788342397}
+2024-10-04T15:35:02.850Z [[32minfo[39m]: Current price: 117.09463788342397
+2024-10-04T15:35:02.851Z [[32minfo[39m]: Short Term MA: 114.46757499051053
+2024-10-04T15:35:02.851Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:03.846Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:03.852Z [[32minfo[39m]: API Response: {"price":116.24753144633665}
+2024-10-04T15:35:03.852Z [[32minfo[39m]: Current price: 116.24753144633665
+2024-10-04T15:35:03.852Z [[32minfo[39m]: Short Term MA: 115.40875804026027
+2024-10-04T15:35:03.852Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:04.848Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:04.853Z [[32minfo[39m]: API Response: {"price":118.67726584192425}
+2024-10-04T15:35:04.853Z [[32minfo[39m]: Current price: 118.67726584192425
+2024-10-04T15:35:04.853Z [[32minfo[39m]: Short Term MA: 116.4017034101809
+2024-10-04T15:35:04.853Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:05.850Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:05.855Z [[32minfo[39m]: API Response: {"price":118.60823650461349}
+2024-10-04T15:35:05.855Z [[32minfo[39m]: Current price: 118.60823650461349
+2024-10-04T15:35:05.855Z [[32minfo[39m]: Short Term MA: 117.05558811113379
+2024-10-04T15:35:05.855Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:06.852Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:06.856Z [[32minfo[39m]: API Response: {"price":119.03780003536039}
+2024-10-04T15:35:06.857Z [[32minfo[39m]: Current price: 119.03780003536039
+2024-10-04T15:35:06.857Z [[32minfo[39m]: Short Term MA: 117.93309434233177
+2024-10-04T15:35:06.857Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:07.853Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:07.857Z [[32minfo[39m]: API Response: {"price":122.42067644139982}
+2024-10-04T15:35:07.858Z [[32minfo[39m]: Current price: 122.42067644139982
+2024-10-04T15:35:07.858Z [[32minfo[39m]: Short Term MA: 118.9983020539269
+2024-10-04T15:35:07.858Z [[32minfo[39m]: Long Term MA: 110.13072012595497
+2024-10-04T15:35:07.858Z [[32minfo[39m]: MA Crossover - Bought 81 shares at $122.42. Balance: $83.93
+2024-10-04T15:35:08.854Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:08.858Z [[32minfo[39m]: API Response: {"price":123.2006998578264}
+2024-10-04T15:35:08.858Z [[32minfo[39m]: Current price: 123.2006998578264
+2024-10-04T15:35:08.858Z [[32minfo[39m]: Short Term MA: 120.38893573622485
+2024-10-04T15:35:08.858Z [[32minfo[39m]: Long Term MA: 111.30723440248339
+2024-10-04T15:35:09.855Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:09.858Z [[32minfo[39m]: API Response: {"price":124.78089430162942}
+2024-10-04T15:35:09.858Z [[32minfo[39m]: Current price: 124.78089430162942
+2024-10-04T15:35:09.858Z [[32minfo[39m]: Short Term MA: 121.60966142816592
+2024-10-04T15:35:09.858Z [[32minfo[39m]: Long Term MA: 112.48838736394221
+2024-10-04T15:35:10.857Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:10.861Z [[32minfo[39m]: API Response: {"price":127.17820854076777}
+2024-10-04T15:35:10.861Z [[32minfo[39m]: Current price: 127.17820854076777
+2024-10-04T15:35:10.862Z [[32minfo[39m]: Short Term MA: 123.32365583539676
+2024-10-04T15:35:10.862Z [[32minfo[39m]: Long Term MA: 113.77680197127458
+2024-10-04T15:35:11.433Z [[32minfo[39m]: Shutting down server...
+2024-10-04T15:35:37.327Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T15:35:37.329Z [[32minfo[39m]: Trading bot started.
+2024-10-04T15:35:38.329Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:38.388Z [[32minfo[39m]: API Response: {"price":99.08925671951411}
+2024-10-04T15:35:38.388Z [[32minfo[39m]: Current price: 99.08925671951411
+2024-10-04T15:35:38.388Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:35:38.388Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:39.329Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:39.336Z [[32minfo[39m]: API Response: {"price":101.53533630552012}
+2024-10-04T15:35:39.336Z [[32minfo[39m]: Current price: 101.53533630552012
+2024-10-04T15:35:39.336Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:35:39.336Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:40.330Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:40.336Z [[32minfo[39m]: API Response: {"price":101.42202434224728}
+2024-10-04T15:35:40.336Z [[32minfo[39m]: Current price: 101.42202434224728
+2024-10-04T15:35:40.336Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:35:40.336Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:41.331Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:41.336Z [[32minfo[39m]: API Response: {"price":101.11833492980323}
+2024-10-04T15:35:41.336Z [[32minfo[39m]: Current price: 101.11833492980323
+2024-10-04T15:35:41.337Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:35:41.337Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:42.331Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:42.337Z [[32minfo[39m]: API Response: {"price":101.65769799946696}
+2024-10-04T15:35:42.337Z [[32minfo[39m]: Current price: 101.65769799946696
+2024-10-04T15:35:42.337Z [[32minfo[39m]: Short Term MA: 100.96453005931035
+2024-10-04T15:35:42.337Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:43.331Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:43.336Z [[32minfo[39m]: API Response: {"price":103.3811160286324}
+2024-10-04T15:35:43.336Z [[32minfo[39m]: Current price: 103.3811160286324
+2024-10-04T15:35:43.337Z [[32minfo[39m]: Short Term MA: 101.82290192113399
+2024-10-04T15:35:43.337Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:44.331Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:44.336Z [[32minfo[39m]: API Response: {"price":104.57445643926395}
+2024-10-04T15:35:44.336Z [[32minfo[39m]: Current price: 104.57445643926395
+2024-10-04T15:35:44.337Z [[32minfo[39m]: Short Term MA: 102.43072594788278
+2024-10-04T15:35:44.337Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:45.331Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:45.336Z [[32minfo[39m]: API Response: {"price":106.20415366931705}
+2024-10-04T15:35:45.336Z [[32minfo[39m]: Current price: 106.20415366931705
+2024-10-04T15:35:45.336Z [[32minfo[39m]: Short Term MA: 103.38715181329671
+2024-10-04T15:35:45.336Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:46.332Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:46.339Z [[32minfo[39m]: API Response: {"price":107.98154127203875}
+2024-10-04T15:35:46.339Z [[32minfo[39m]: Current price: 107.98154127203875
+2024-10-04T15:35:46.339Z [[32minfo[39m]: Short Term MA: 104.75979308174382
+2024-10-04T15:35:46.340Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:47.333Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:47.339Z [[32minfo[39m]: API Response: {"price":108.03138799931217}
+2024-10-04T15:35:47.339Z [[32minfo[39m]: Current price: 108.03138799931217
+2024-10-04T15:35:47.339Z [[32minfo[39m]: Short Term MA: 106.03453108171286
+2024-10-04T15:35:47.339Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:48.333Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:48.336Z [[32minfo[39m]: API Response: {"price":110.7851274454503}
+2024-10-04T15:35:48.337Z [[32minfo[39m]: Current price: 110.7851274454503
+2024-10-04T15:35:48.337Z [[32minfo[39m]: Short Term MA: 107.51533336507643
+2024-10-04T15:35:48.337Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:49.333Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:49.337Z [[32minfo[39m]: API Response: {"price":113.09936265295731}
+2024-10-04T15:35:49.338Z [[32minfo[39m]: Current price: 113.09936265295731
+2024-10-04T15:35:49.338Z [[32minfo[39m]: Short Term MA: 109.22031460781511
+2024-10-04T15:35:49.338Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:50.332Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:50.335Z [[32minfo[39m]: API Response: {"price":114.28882211878847}
+2024-10-04T15:35:50.335Z [[32minfo[39m]: Current price: 114.28882211878847
+2024-10-04T15:35:50.335Z [[32minfo[39m]: Short Term MA: 110.83724829770941
+2024-10-04T15:35:50.336Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:51.332Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:51.337Z [[32minfo[39m]: API Response: {"price":116.80621831256205}
+2024-10-04T15:35:51.337Z [[32minfo[39m]: Current price: 116.80621831256205
+2024-10-04T15:35:51.337Z [[32minfo[39m]: Short Term MA: 112.60218370581406
+2024-10-04T15:35:51.337Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:52.331Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:52.336Z [[32minfo[39m]: API Response: {"price":117.62459745951078}
+2024-10-04T15:35:52.336Z [[32minfo[39m]: Current price: 117.62459745951078
+2024-10-04T15:35:52.336Z [[32minfo[39m]: Short Term MA: 114.52082559785379
+2024-10-04T15:35:52.336Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:53.331Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:53.336Z [[32minfo[39m]: API Response: {"price":117.5252175458938}
+2024-10-04T15:35:53.336Z [[32minfo[39m]: Current price: 117.5252175458938
+2024-10-04T15:35:53.336Z [[32minfo[39m]: Short Term MA: 115.86884361794247
+2024-10-04T15:35:53.336Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:54.331Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:54.336Z [[32minfo[39m]: API Response: {"price":119.52101535327041}
+2024-10-04T15:35:54.336Z [[32minfo[39m]: Current price: 119.52101535327041
+2024-10-04T15:35:54.336Z [[32minfo[39m]: Short Term MA: 117.1531741580051
+2024-10-04T15:35:54.337Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:55.332Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:55.337Z [[32minfo[39m]: API Response: {"price":118.57930509513666}
+2024-10-04T15:35:55.337Z [[32minfo[39m]: Current price: 118.57930509513666
+2024-10-04T15:35:55.337Z [[32minfo[39m]: Short Term MA: 118.01127075327474
+2024-10-04T15:35:55.337Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:56.333Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:56.338Z [[32minfo[39m]: API Response: {"price":117.6822663186819}
+2024-10-04T15:35:56.338Z [[32minfo[39m]: Current price: 117.6822663186819
+2024-10-04T15:35:56.338Z [[32minfo[39m]: Short Term MA: 118.18648035449871
+2024-10-04T15:35:56.338Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:35:57.334Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:57.339Z [[32minfo[39m]: API Response: {"price":116.7156604838739}
+2024-10-04T15:35:57.339Z [[32minfo[39m]: Current price: 116.7156604838739
+2024-10-04T15:35:57.339Z [[32minfo[39m]: Short Term MA: 118.00469295937134
+2024-10-04T15:35:57.339Z [[32minfo[39m]: Long Term MA: 109.8811449245621
+2024-10-04T15:35:57.339Z [[32minfo[39m]: MA Crossover - Bought 85 shares at $116.72. Balance: $79.17
+2024-10-04T15:35:58.335Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:35:58.341Z [[32minfo[39m]: API Response: {"price":118.976647814779}
+2024-10-04T15:35:58.341Z [[32minfo[39m]: Current price: 118.976647814779
+2024-10-04T15:35:58.341Z [[32minfo[39m]: Short Term MA: 118.29497901314838
+2024-10-04T15:35:58.341Z [[32minfo[39m]: Long Term MA: 110.87551447932535
+2024-10-04T15:35:58.733Z [[32minfo[39m]: Shutting down server...
+2024-10-04T15:48:20.358Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T15:48:20.359Z [[32minfo[39m]: Trading bot started.
+2024-10-04T15:48:21.361Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:48:21.421Z [[32minfo[39m]: API Response: {"price":100.11479409369407}
+2024-10-04T15:48:21.421Z [[32minfo[39m]: Current price: 100.11479409369407
+2024-10-04T15:48:21.421Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:48:21.421Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:48:22.360Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:48:22.367Z [[32minfo[39m]: API Response: {"price":101.65873507037806}
+2024-10-04T15:48:22.367Z [[32minfo[39m]: Current price: 101.65873507037806
+2024-10-04T15:48:22.367Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:48:22.367Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:48:23.360Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:48:23.365Z [[32minfo[39m]: API Response: {"price":104.09597867514692}
+2024-10-04T15:48:23.365Z [[32minfo[39m]: Current price: 104.09597867514692
+2024-10-04T15:48:23.365Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:48:23.365Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:48:23.493Z [[32minfo[39m]: Shutting down server...
+2024-10-04T15:55:44.910Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T15:55:44.912Z [[32minfo[39m]: Trading bot started.
+2024-10-04T15:55:45.923Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T15:55:45.980Z [[32minfo[39m]: API Response: {"price":100.13291062831189}
+2024-10-04T15:55:45.980Z [[32minfo[39m]: Current price: 100.13291062831189
+2024-10-04T15:55:45.981Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T15:55:45.981Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T15:55:46.258Z [[32minfo[39m]: Shutting down server...
+2024-10-04T15:55:52.040Z [[32minfo[39m]: Trading bot started.
