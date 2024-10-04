@@ -47,7 +47,7 @@ Ensure you have the following software installed:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/trader-bot.git
+   git https://github.com/ThatSneakyCoder/trading-bot.git
    cd trader-bot
    ```
 
