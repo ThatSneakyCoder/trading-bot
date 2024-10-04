@@ -1,21 +1,22 @@
 import tradeService from '../services/tradeService.js';
+import logger from '../utils/logger.js';  // Import logger
 
 const getStockPrice = async (req, res) => {
   try {
     const price = await tradeService.getStockPrice();
     res.status(200).json({ price });
   } catch (error) {
-    console.error('Error fetching stock price:', error);
+    logger.error('Error fetching stock price:', error);  // Replaced console.error with logger
     res.status(500).json({ message: 'Internal Server Error' });
   }
 };
 
 const getReport = async (req, res) => {
   try {
-    const report = await tradeService.generateReport(); // Generate and send the report
+    const report = await tradeService.generateReport();
     res.status(200).json({ report });
   } catch (error) {
-    console.error('Error generating report:', error);
+    logger.error('Error generating report:', error);  // Replaced console.error with logger
     res.status(500).json({ message: 'Internal Server Error' });
   }
 };

@@ -23,14 +23,14 @@ const calculateMovingAverage = (prices, period) => {
 
 const trade = async () => {
   try {
-    console.log('Fetching stock price...');
+    logger.info('Fetching stock price...'); // Replaced console.log
     const response = await axios.get('http://localhost:3000/api/stock-price', {
       headers: {
         'Connection': 'keep-alive'
       }
     });
     const currentPrice = response.data.price;
-    console.log(`API Response:`, response.data);
+    logger.info(`API Response: ${JSON.stringify(response.data)}`); // Replaced console.log
 
     if (typeof currentPrice !== 'number' || isNaN(currentPrice)) {
       throw new Error('Invalid stock price received from API');
@@ -48,9 +48,9 @@ const trade = async () => {
       return; // Exit if moving average calculation fails
     }
 
-    console.log(`Current price: ${currentPrice}`);
-    console.log(`Short Term MA: ${shortTermMA}`);
-    console.log(`Long Term MA: ${longTermMA}`);
+    logger.info(`Current price: ${currentPrice}`); // Replaced console.log
+    logger.info(`Short Term MA: ${shortTermMA}`); // Replaced console.log
+    logger.info(`Long Term MA: ${longTermMA}`); // Replaced console.log
 
     let action = null;
     let tradeShares = 0;
@@ -129,7 +129,7 @@ const trade = async () => {
 const generateReport = () => {
   try {
     const report = [];
-    report.push("---- Trading Summary Report ----");
+    report.push('---- Trading Summary Report ----');
     trades.forEach((trade, index) => {
       report.push(`${index + 1}. ${trade.timestamp} - ${trade.action.toUpperCase()}: ${trade.shares} shares at $${trade.price.toFixed(2)}. Balance: $${trade.balance.toFixed(2)}`);
     });
@@ -145,24 +145,23 @@ const generateReport = () => {
 let stockPrice = 100;
 
 const generateRandomPriceChange = (currentPrice) => {
-    // Simulate market volatility with a normal distribution
-    const volatility = 0.02; // 2% volatility
-    const drift = 0.01; // 1% upward drift
-    const randomShock = Math.random() * 2 - 1; // Random value between -1 and 1
-    const priceChange = (drift + volatility * randomShock) * currentPrice;
-    return priceChange;
-  };
-  
+  // Simulate market volatility with a normal distribution
+  const volatility = 0.02; // 2% volatility
+  const drift = 0.01; // 1% upward drift
+  const randomShock = Math.random() * 2 - 1; // Random value between -1 and 1
+  const priceChange = (drift + volatility * randomShock) * currentPrice;
+  return priceChange;
+};
+
 setInterval(() => {
-    const priceChange = generateRandomPriceChange(stockPrice);
-    stockPrice += priceChange;
+  const priceChange = generateRandomPriceChange(stockPrice);
+  stockPrice += priceChange;
 }, 1000);
-  
 
 const getStockPrice = () => stockPrice;
 
 const startTrading = () => {
-  console.log("Trading bot started.");
+  logger.info('Trading bot started.'); // Replaced console.log
   const intervalId = setInterval(trade, 1000); // Store the interval ID
   return intervalId; // Return the interval ID
 };
