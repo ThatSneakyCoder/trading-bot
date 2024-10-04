@@ -622,3 +622,31 @@
 2024-10-04T13:30:59.338Z [[32minfo[39m]: Short Term MA: 184.49507885800497
 2024-10-04T13:30:59.338Z [[32minfo[39m]: Long Term MA: 175.56741984368432
 2024-10-04T13:31:00.278Z [[32minfo[39m]: Shutting down server...
+2024-10-04T13:46:02.525Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T13:46:02.527Z [[32minfo[39m]: Trading bot started.
+2024-10-04T13:46:03.537Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T13:46:03.573Z [[32minfo[39m]: API Response: {"price":101.35059022178342}
+2024-10-04T13:46:03.573Z [[32minfo[39m]: Current price: 101.35059022178342
+2024-10-04T13:46:03.574Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T13:46:03.574Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T13:46:04.547Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T13:46:04.554Z [[32minfo[39m]: API Response: {"price":100.72555292230561}
+2024-10-04T13:46:04.554Z [[32minfo[39m]: Current price: 100.72555292230561
+2024-10-04T13:46:04.555Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T13:46:04.555Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T13:46:05.560Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T13:46:05.565Z [[32minfo[39m]: API Response: {"price":102.21865469595713}
+2024-10-04T13:46:05.566Z [[32minfo[39m]: Current price: 102.21865469595713
+2024-10-04T13:46:05.566Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T13:46:05.566Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T13:46:06.561Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T13:46:06.567Z [[32minfo[39m]: API Response: {"price":103.03278747619741}
+2024-10-04T13:46:06.567Z [[32minfo[39m]: Current price: 103.03278747619741
+2024-10-04T13:46:06.568Z [[32minfo[39m]: Short Term MA: null
+2024-10-04T13:46:06.568Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T13:46:07.561Z [[32minfo[39m]: Fetching stock price...
+2024-10-04T13:46:07.566Z [[32minfo[39m]: API Response: {"price":103.28016253858094}
+2024-10-04T13:46:07.567Z [[32minfo[39m]: Current price: 103.28016253858094
+2024-10-04T13:46:07.567Z [[32minfo[39m]: Short Term MA: 102.1215495709649
+2024-10-04T13:46:07.567Z [[32minfo[39m]: Long Term MA: null
+2024-10-04T13:46:08.341Z [[32minfo[39m]: Shutting down server...
