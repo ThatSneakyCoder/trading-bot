@@ -100,4 +100,17 @@ Ensure you have Docker installed on your system:
 3. Verify
    Once the container is running, you should see the logs output in your terminal. The application will start running on port 3000.
    
-   
+## Application Images
+
+1. **Start**
+   ![pnpm start](image.png)
+
+2. **Testing**
+   ![pnpm test](image-1.png)
+
+3. **Linter** \
+   Below image shows no src code violations.
+   ![pnpm lint](image-2.png)
+
+4. **Docker Compose**
+   ![Docker CLI ouput](image-3.png)
