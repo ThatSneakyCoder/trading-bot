@@ -60,6 +60,7 @@ Ensure you have the following software installed:
    - Create a .env file in the project root and add your environment variables:
       ```
       PORT=3000
+      STOCK_API_PORT=4000
       ```
 
 4. **Run the Application**:
@@ -70,6 +71,11 @@ Ensure you have the following software installed:
 4. **Run Tests (optional)**:
       ```
       pnpm test
+      ```
+   
+5. **Run linter (optional)**:
+      ```
+      pnpm lint
       ```
 
 ## Additional Steps (For Docker Users)
