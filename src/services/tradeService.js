@@ -161,7 +161,7 @@ setInterval(() => {
 const getStockPrice = () => stockPrice;
 
 /**
- * Starts the trading bot..
+ * Starts the trading bot.
  * @returns {NodeJS.Timeout} The interval ID for the trading bot.
  */
 const startTrading = () => {
