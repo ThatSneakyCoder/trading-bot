@@ -3,7 +3,7 @@ version: 2.1
 executors:
   node-executor:
     docker:
-      - image: circleci/node:16.13 # Update to your preferred Node.js version
+      - image: circleci/node:18.17  # Update to Node.js version 18.17.0
 
 jobs:
   commitlint:
