@@ -1,5 +1,9 @@
 import winston from 'winston';
 
+/**
+ * Creates a logger instance with the specified configuration.
+ * @type {winston.Logger}
+ */
 const logger = winston.createLogger({
   level: 'info',
   format: winston.format.combine(
