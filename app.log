@@ -16,3 +16,26 @@
 2024-10-04T05:29:31.322Z [[31merror[39m]: Error fetching stock price:
 2024-10-04T05:30:22.233Z [[32minfo[39m]: Server is running on http://localhost:3000
 2024-10-04T05:31:32.226Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T05:45:24.076Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T05:46:58.213Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T05:47:18.261Z [[32minfo[39m]: Bought 102 shares at $97.65. Balance: $40.04
+2024-10-04T05:47:53.347Z [[32minfo[39m]: Sold 102 shares at $99.38. Balance: $10177.16, P/L: $177.16
+2024-10-04T05:51:33.843Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T05:51:38.886Z [[32minfo[39m]: Bought 104 shares at $96.10. Balance: $5.55
+2024-10-04T05:52:38.751Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T05:52:49.362Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T05:53:09.534Z [[32minfo[39m]: MA Crossover - Bought 98 shares at $101.30. Balance: $73.01
+2024-10-04T05:53:10.541Z [[32minfo[39m]: MA Crossover - Sold 98 shares at $100.09. Balance: $9881.59, P/L: $-118.41
+2024-10-04T05:53:15.583Z [[32minfo[39m]: MA Crossover - Bought 94 shares at $104.59. Balance: $50.55
+2024-10-04T05:57:31.648Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T05:57:49.842Z [[32minfo[39m]: Bought 105 shares at $94.50. Balance: $77.17
+2024-10-04T05:57:51.863Z [[32minfo[39m]: MA Crossover - Sold 105 shares at $94.29. Balance: $9977.99, P/L: $-22.01
+2024-10-04T05:58:04.997Z [[32minfo[39m]: Bought 115 shares at $86.11. Balance: $75.76
+2024-10-04T05:58:04.998Z [[32minfo[39m]: MA Crossover - Sold 115 shares at $86.11. Balance: $9977.99, P/L: $-22.01
+2024-10-04T05:58:18.113Z [[32minfo[39m]: MA Crossover - Bought 114 shares at $87.11. Balance: $47.91
+2024-10-04T05:59:05.544Z [[32minfo[39m]: MA Crossover - Sold 114 shares at $100.20. Balance: $11470.39, P/L: $1470.39
+2024-10-04T06:00:35.857Z [[32minfo[39m]: Server is running on http://localhost:3000
+2024-10-04T06:00:56.076Z [[32minfo[39m]: MA Crossover - Bought 103 shares at $97.05. Balance: $3.50
+2024-10-04T06:00:57.089Z [[32minfo[39m]: MA Crossover - Sold 103 shares at $96.33. Balance: $9925.09, P/L: $-74.91
+2024-10-04T06:00:58.099Z [[32minfo[39m]: Bought 105 shares at $94.34. Balance: $19.50
+2024-10-04T06:00:58.100Z [[32minfo[39m]: MA Crossover - Sold 105 shares at $94.34. Balance: $9925.09, P/L: $-74.91
