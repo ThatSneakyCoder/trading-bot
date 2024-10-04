@@ -18,11 +18,11 @@ const server = app.listen(port, () => {
 
 // Handle shutdown gracefully to generate the report
 const shutdown = () => {
-  console.log("\nShutting down server...");
+  logger.info('Shutting down server...');
   const report = tradeService.generateReport();
-  console.log(report);
+  logger.info(report);
   server.close(() => {
-    console.log("Server closed.");
+    logger.info('Server closed.');
     process.exit(0);
   });
 };
