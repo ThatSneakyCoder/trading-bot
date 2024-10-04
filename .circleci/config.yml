@@ -3,7 +3,7 @@ version: 2.1
 executors:
   node-executor:
     docker:
-      - image: cimg/node:18.17  # Ensure this tag is correct
+      - image: cimg/node:18.17  # Use CircleCI's Node.js image
 
 jobs:
   commitlint:
@@ -12,7 +12,7 @@ jobs:
       - checkout
       - run:
           name: Install specific npm version
-          command: npm install -g npm@10.8.3
+          command: sudo npm install -g npm@10.8.3  # Use sudo
       - run:
           name: Install dependencies
           command: npm install
