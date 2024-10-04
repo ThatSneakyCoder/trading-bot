@@ -3,7 +3,7 @@ version: 2.1
 executors:
   node-executor:
     docker:
-      - image: cimg/node:18.17[_{{{CITATION{{{_3{cimg/node - CircleCI](https://circleci.com/developer/images/image/cimg/node)  # Use CircleCI's Node.js image
+      - image: cimg/node:18.17  # Ensure this tag is correct
 
 jobs:
   commitlint:
